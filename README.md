@@ -1,10 +1,25 @@
-<div align="center">
+
   <img src="https://raw.githubusercontent.com/benyweb/benyweb/main/1.jpg" alt="Banner" width="100%"/>
   
   <h1>Hi 👋, I'm Benyamin Batooi</h1>
   <h3>Web Designer & Front-End Developer | React • JavaScript • UI/UX<br>
   Software Engineering Student | Founder of BenyWeb<br>
   Neyshabur, Iran 🇮🇷 | Open to remote & international opportunities 🚀</h3>
+  h2 align="center">🌟 About Me</h2>
+
+<p align="center">
+🌍 Based in Iran, I'm a passionate <strong>Web Designer</strong> and <strong>Front-End Developer</strong> specializing in crafting modern, responsive websites that truly shine.<br><br>
+
+🛠️ My toolkit includes <strong>HTML, CSS, JavaScript, React</strong>, and <strong>UI/UX design</strong> — turning ideas into sleek, user-friendly experiences.<br><br>
+
+📂 Most of my projects are personal and practice-driven, focused on strengthening real-world skills in design and development to build practical, impactful solutions.<br><br>
+
+🚀 As the <strong>Founder of BenyWeb</strong>, I’m deeply invested in hands-on learning, continuous improvement, and pushing my creative and technical limits.<br><br>
+
+🎯 My ambition is to expand into broader tech domains while building a strong personal and professional brand.<br><br>
+
+💼 Open to exciting job opportunities, remote work, and international collaborations — let’s connect and create something amazing! 📩
+</p>
   
   <img src="https://komarev.com/ghpvc/?username=benyweb&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
