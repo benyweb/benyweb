@@ -7,7 +7,7 @@
   Neyshabur, Iran 🇮🇷 | Open to remote & international opportunities 🚀</h3>
   h2 align="center">🌟 About Me</h2>
 
-<p align="center">
+
 🌍 Based in Iran, I'm a passionate <strong>Web Designer</strong> and <strong>Front-End Developer</strong> specializing in crafting modern, responsive websites that truly shine.<br><br>
 
 🛠️ My toolkit includes <strong>HTML, CSS, JavaScript, React</strong>, and <strong>UI/UX design</strong> — turning ideas into sleek, user-friendly experiences.<br><br>
