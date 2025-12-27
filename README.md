@@ -5,7 +5,7 @@
   <h3>Web Designer & Front-End Developer | React • JavaScript • UI/UX<br>
   Software Engineering Student | Founder of BenyWeb<br>
   Neyshabur, Iran 🇮🇷 | Open to remote & international opportunities 🚀</h3>
-  h2 align="center">🌟 About Me</h2>
+  🌟 About Me</h2>
 
 
 🌍 Based in Iran, I'm a passionate <strong>Web Designer</strong> and <strong>Front-End Developer</strong> specializing in crafting modern, responsive websites that truly shine.<br><br>
